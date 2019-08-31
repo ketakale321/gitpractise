@@ -1,10 +1,1 @@
-hello this is a new file
-This is a new local change.
-This ia a new remote change.
-This is another new change which local does not know of.
-But there was serious conflict so do a pull everytime before commitng
-hello then let's end this tutorial
-This is on master branch
-
-We start with branching ->
-Branch name : demo_branch
+hello this is another new tutorial
