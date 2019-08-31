@@ -3,3 +3,4 @@ This is a local change to be commited
 this is new change in the remote repos
 
 Adding feature 1 from user 1
+Adding feature 1 from user 2
